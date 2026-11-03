@@ -1,0 +1,6 @@
+niceplots skill for Claude Code
+Copyright 2026 Stephen Xiao
+
+This product builds on niceplots (https://github.com/mdolab/niceplots),
+developed by the MDO Lab and licensed under the Apache License, Version 2.0.
+niceplots is not included in this repository; it is installed separately with pip.

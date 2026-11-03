@@ -99,3 +99,7 @@ Run `python niceplots/examples/demo.py out_dir` to reproduce the four figures ab
 The overlap check does not yet treat **unfilled contour lines** (`ax.contour`) as lines. A label sitting on a contour line is not flagged.
 
 Until this is fixed, either redraw important contour curves with `ax.plot` (from `contour.allsegs`) so they are checked, or inspect such labels by eye.
+
+## License
+
+Apache License 2.0 (see `LICENSE`), the same license as [niceplots](https://github.com/mdolab/niceplots), which this skill builds on. See `NOTICE` for attribution.
